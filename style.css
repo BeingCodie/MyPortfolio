@@ -162,3 +162,52 @@ h1{
     background-color: brown;
     border: 1px solid greenyellow;
 }
+.resume{
+    padding: 50px;
+}
+
+.resume p{
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+    margin-top: 201px;
+    justify-content: center; 
+}
+.resume button{
+    margin-top: 20px;
+    margin-left: 170px;
+}
+ 
+.resume button a{
+    color: white;
+    cursor: pointer;
+    padding: 7px 7px;
+    background-color: black;
+}
+
+.resume button hover{
+    color:black;
+    background-color: white;
+}
+.socialmedia {
+    margin-top: 212px;
+    margin-left: 28px;
+}
+
+a {
+    margin: 3px;
+}
+.btn1 {
+    padding: 9px 14px ;
+    border-radius: 15px;
+    color: white;
+    background-color: rgb(120, 111, 111);
+    font-weight: bold;
+    font-size: 15px;
+    margin: 0 3px ;
+    cursor: pointer;
+}
+.btn1 hover{
+ color: rgb(120, 111, 111);
+ background-color: white;
+}
